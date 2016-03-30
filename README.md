@@ -1,2 +1,3 @@
-# securityheaders-bugs
-Bug tracker for https://securityheaders.io
+# Bug Tracker
+
+Please raise bugs [here](https://github.com/ScottHelme/securityheaders-bugs/issues).
